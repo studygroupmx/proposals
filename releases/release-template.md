@@ -1,6 +1,6 @@
 # Project Name - Released on July 25, 2017
 
-[This release](https://github.com/studygroupmx/) implements the project release template.
+[This release](release-template.md) implements the project release template.
 
 ## Proposals included in Project Name
 
